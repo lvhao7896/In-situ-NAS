@@ -7,5 +7,6 @@ python==3.6
 
 
 # How to
-1. python instu_nas_latency_server.py
-2. run 'python benchmark.py' in another terminal
+1. pip install requirements.txt
+2. python instu_nas_latency_server.py
+3. run 'python benchmark.py' in another terminal
