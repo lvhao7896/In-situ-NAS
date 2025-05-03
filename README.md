@@ -7,6 +7,8 @@ ubuntu18.04
 python==3.6
 
 # Experiment Setup
+1. install VPU driver
+2. install openvino package
 
 # How to
 1. pip install requirements.txt
